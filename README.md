@@ -1,4 +1,4 @@
-# Images-Classification-NMF-
+# Images-Clusturing-NMF-
 Building a dataset using the flickr website API.
 
 Compare the different clusturing results To the NMF result.
